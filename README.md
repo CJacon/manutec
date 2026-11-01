@@ -1,4 +1,4 @@
-# 🚀 ManuTec
+# ManuTec
 
 > **Sistema de Controle e Gerenciamento de Manutenção de Equipamentos. Projeto da disciplina de Engenharia de Software I do curso de Ciência da Computação da PUC Minas (unidade Poços de Caldas).**
 
@@ -7,7 +7,7 @@
 
 Este repositório é o ponto de partida para desenvolver soluções robustas, priorizando a compreensão do domínio de negócios antes da implementação técnica.
 
-## 👥 Equipe
+## Equipe
 
 Informe os nomes dos integrantes do grupo deste projeto:
 
@@ -16,7 +16,7 @@ Informe os nomes dos integrantes do grupo deste projeto:
 - Pedro de Almeida Couto Santos
 - Vinícius Justo Faria Ferreira
 
-## 🏗️ Etapas do Projeto
+## Etapas do Projeto
 
 O desenvolvimento estrutura-se em etapas interdependentes, o que garante a rastreabilidade desde a concepção até a entrega contínua.
 
@@ -31,6 +31,6 @@ Foco na fase de Descoberta (Discovery) para a elaboração da versão inicial do
 - [`/docs/01_descoberta/03_product_backlog.md`](./docs/01_descoberta/03_product_backlog.md)
 - [`/docs/01_descoberta/99_video_etapa_1.md`](./docs/01_descoberta/99_video_etapa_1.md)
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [`LICENSE`](LICENSE.md) para mais detalhes.
