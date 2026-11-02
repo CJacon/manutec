@@ -1,6 +1,5 @@
 # 3. Descrição das Personas
 
-> A persona representa um usuário do produto ou serviço, descrevendo não apenas o seu papel, mas também suas necessidades específicas. Sua descrição deve incluir nome (com foto ou ilustração opcional), perfil, dores e expectativas.
 
 ## Persona 1: Carlos, Gestor de Manutenção
 
