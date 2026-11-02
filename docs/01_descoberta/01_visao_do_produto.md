@@ -1,6 +1,5 @@
 # 1. Visão do Produto
 
-> Ter uma visão clara do produto é essencial. Escreva-a no seguinte formato:
 
 - **Para** empresas e estabelecimentos que utilizam equipamentos em suas atividades diárias,
 - **cujo** problema é a dificuldade de organizar e acompanhar as manutenções preventivas e corretivas, com registros feitos manualmente ou espalhados em planilhas, o que gera atrasos, falhas inesperadas, paradas nas atividades e aumento dos custos com reparos.
