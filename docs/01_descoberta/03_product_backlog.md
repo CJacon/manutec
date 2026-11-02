@@ -2,7 +2,6 @@
 
 ## 1. Product Backlog Itens
 
-> O objetivo desta tarefa é elaborar a versão preliminar do backlog do produto, contendo dez funcionalidades que atendam às necessidades do usuário. Utilize os modelos de tabela a seguir.
 
 | #   | Persona (Quem) | Dor/Necessidade (Por Quê) | Expectativa (Para Quê) | Funcionalidade (O Quê - Ação) |
 | --- | -------------- | ------------------------- | ---------------------- | ----------------------------- |
